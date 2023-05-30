@@ -12,6 +12,9 @@ body {
     max-height: 740px;
     display: flex;
     justify-content: center;
+    background-image: linear-gradient(45deg,lightblue,#093F61);
+    width: 100%;
+    height: 100vh;
 }
 
 .logo img{
@@ -52,6 +55,13 @@ body {
 }
 .select-image{
     max-width: 200px;
+}
+.sombra{
+  box-shadow: 1px 1px black;
+}
+.titulo{
+  color: #fff;
+  font-size: 20px;
 }
 .select-image img{
     width: 80%;
