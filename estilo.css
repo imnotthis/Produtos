@@ -12,9 +12,9 @@ body {
     max-height: 740px;
     display: flex;
     justify-content: center;
-    background-image: linear-gradient(45deg,lightblue,#093F61);
     width: 100%;
     height: 100vh;
+    
 }
 
 .logo img{
